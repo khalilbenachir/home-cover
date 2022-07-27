@@ -1,0 +1,14 @@
+.cover-container {
+  min-height: 100vh;
+  color: black;
+  background-color: antiquewhite;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.cover-letters {
+  display: flex;
+  gap:.5rem
+}
